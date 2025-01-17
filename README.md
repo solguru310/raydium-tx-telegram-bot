@@ -8,9 +8,6 @@ Main objective: create a telegram bot with a user flow, described on a schema be
 ## Contact me
 Telegram: [@dwlee918](https://t.me/@dwlee918)
 
-X: [@derricklee918](https://x.com/derricklee918)
-
-
 
 ## Key Points / Requirements:
 
